@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/fadiyau/photobooth-fe.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/fadiyau/photobooth-be.git
